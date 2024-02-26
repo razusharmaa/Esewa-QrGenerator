@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.6e059268.css",
-    "main.js": "/static/js/main.5fb92cc0.js",
-    "static/js/453.ad42e4d3.chunk.js": "/static/js/453.ad42e4d3.chunk.js",
-    "static/media/esewa_logo.png": "/static/media/esewa_logo.f0846d84066b405b5abc.png",
-    "index.html": "/index.html",
-    "main.6e059268.css.map": "/static/css/main.6e059268.css.map",
-    "main.5fb92cc0.js.map": "/static/js/main.5fb92cc0.js.map",
-    "453.ad42e4d3.chunk.js.map": "/static/js/453.ad42e4d3.chunk.js.map"
+    "main.css": "/Esewa-QrGenerator/static/css/main.6e059268.css",
+    "main.js": "/Esewa-QrGenerator/static/js/main.f096a99f.js",
+    "static/js/453.ad42e4d3.chunk.js": "/Esewa-QrGenerator/static/js/453.ad42e4d3.chunk.js",
+    "static/media/esewa_logo.png": "/Esewa-QrGenerator/static/media/esewa_logo.f0846d84066b405b5abc.png",
+    "index.html": "/Esewa-QrGenerator/index.html",
+    "main.6e059268.css.map": "/Esewa-QrGenerator/static/css/main.6e059268.css.map",
+    "main.f096a99f.js.map": "/Esewa-QrGenerator/static/js/main.f096a99f.js.map",
+    "453.ad42e4d3.chunk.js.map": "/Esewa-QrGenerator/static/js/453.ad42e4d3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6e059268.css",
-    "static/js/main.5fb92cc0.js"
+    "static/js/main.f096a99f.js"
   ]
 }
