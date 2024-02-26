@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6e059268.css",
+    "main.js": "/static/js/main.8de5a074.js",
+    "static/js/453.ad42e4d3.chunk.js": "/static/js/453.ad42e4d3.chunk.js",
+    "static/media/esewa_logo.png": "/static/media/esewa_logo.f0846d84066b405b5abc.png",
+    "index.html": "/index.html",
+    "main.6e059268.css.map": "/static/css/main.6e059268.css.map",
+    "main.8de5a074.js.map": "/static/js/main.8de5a074.js.map",
+    "453.ad42e4d3.chunk.js.map": "/static/js/453.ad42e4d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e059268.css",
+    "static/js/main.8de5a074.js"
+  ]
+}
