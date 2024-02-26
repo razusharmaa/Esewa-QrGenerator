@@ -19,7 +19,7 @@ export default function QrResult({name1,number1}) {
   return (
     <div className='container d-flex flex-column justify-content-center align-items-center'>
       <h3>Your Generated Esewa Qr Code</h3>
-      <img src={QrAPI()} className="img-thumbnail mb-2" style={{height:'160px',width:"160px"}} alt="..."/>
+      <img src={QrAPI()} className="img-thumbnail mb-2 mt-5" style={{height:'160px',width:"160px"}} alt="..."/>
       <div className='my-3'>
         <img src={logo} className='logoStyle' alt="..." style={{height:"53px"}} />
         <h6 className='text-center mt-2'>{name1} <br/> {number1}</h6>
