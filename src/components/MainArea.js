@@ -12,15 +12,16 @@ export default function MainArea() {
   const handleGenerate = (name, number) => {
     setName(name)
     setNumber(number)
-    
       setPage(2)
-   
+  }
+  const back2input=()=>{
+    setPage(1)
   }
  
   return (
     <>
   { page===1 && <InputArea onGenerate={handleGenerate} page={page}/>}
-   { page===2 && <QrResult name1={name} number1={number} page={page}/>}
+   { page===2 && <QrResult name1={name} number1={number} page={page} back={back2input}/>}
     </>
   )
 }
