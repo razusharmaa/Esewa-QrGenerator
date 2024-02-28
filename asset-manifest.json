@@ -1,16 +1,15 @@
 {
   "files": {
     "main.css": "/Esewa-QrGenerator/static/css/main.0854e58f.css",
-    "main.js": "/Esewa-QrGenerator/static/js/main.3b715d1c.js",
+    "main.js": "/Esewa-QrGenerator/static/js/main.19b6b3bf.js",
     "static/js/453.ad42e4d3.chunk.js": "/Esewa-QrGenerator/static/js/453.ad42e4d3.chunk.js",
-    "static/media/esewa_logo.png": "/Esewa-QrGenerator/static/media/esewa_logo.f0846d84066b405b5abc.png",
     "index.html": "/Esewa-QrGenerator/index.html",
     "main.0854e58f.css.map": "/Esewa-QrGenerator/static/css/main.0854e58f.css.map",
-    "main.3b715d1c.js.map": "/Esewa-QrGenerator/static/js/main.3b715d1c.js.map",
+    "main.19b6b3bf.js.map": "/Esewa-QrGenerator/static/js/main.19b6b3bf.js.map",
     "453.ad42e4d3.chunk.js.map": "/Esewa-QrGenerator/static/js/453.ad42e4d3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0854e58f.css",
-    "static/js/main.3b715d1c.js"
+    "static/js/main.19b6b3bf.js"
   ]
 }
