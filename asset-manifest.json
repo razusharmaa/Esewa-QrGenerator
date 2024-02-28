@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Esewa-QrGenerator/static/css/main.0854e58f.css",
-    "main.js": "/Esewa-QrGenerator/static/js/main.19b6b3bf.js",
+    "main.js": "/Esewa-QrGenerator/static/js/main.529cf618.js",
     "static/js/453.ad42e4d3.chunk.js": "/Esewa-QrGenerator/static/js/453.ad42e4d3.chunk.js",
     "index.html": "/Esewa-QrGenerator/index.html",
     "main.0854e58f.css.map": "/Esewa-QrGenerator/static/css/main.0854e58f.css.map",
-    "main.19b6b3bf.js.map": "/Esewa-QrGenerator/static/js/main.19b6b3bf.js.map",
+    "main.529cf618.js.map": "/Esewa-QrGenerator/static/js/main.529cf618.js.map",
     "453.ad42e4d3.chunk.js.map": "/Esewa-QrGenerator/static/js/453.ad42e4d3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0854e58f.css",
-    "static/js/main.19b6b3bf.js"
+    "static/js/main.529cf618.js"
   ]
 }
