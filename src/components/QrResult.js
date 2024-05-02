@@ -14,10 +14,12 @@ export default function QrResult({ name1, number1, back,bankName,CT}) {
         name: name1,
       };
     }
-    data = {
-      Khalti_ID: number1,
-      name: name1,
-    };
+    else{
+      data = {
+        Khalti_ID: number1,
+        name: name1,
+      };
+    }
     setQrData(JSON.stringify(data));
   }, [name1,number1,bankName]);
 
